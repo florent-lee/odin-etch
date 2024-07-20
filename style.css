@@ -1,0 +1,17 @@
+.grid-container {
+    width: 960px;
+    height: 960px;
+    display: flex;
+    flex-wrap: wrap;
+    gap:0;
+}
+
+.item {
+    border: black solid 1px;
+    box-sizing:border-box;
+}
+
+button {
+    margin-bottom: 30px;
+    font-size: 20px;
+}
